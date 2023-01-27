@@ -1,0 +1,19 @@
+* {
+    background-color: var(--main-bg-color);
+}
+
+:root {
+    --primary: #12d7d3;
+    --main-bg-color: #1a1a1a;
+    --light-color: #fafafa;
+    --primary-light: #fff;
+}
+
+html {
+    color: var(--primary-light);
+    font-size: 64%;
+}
+
+p {
+    color: var(--light-color);
+}
